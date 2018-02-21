@@ -1,0 +1,3 @@
+#! osh
+echo x
+pwd
